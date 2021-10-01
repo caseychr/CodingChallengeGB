@@ -1,0 +1,9 @@
+Build:
+Activity
+Fragment
+RecyclerView
+Model - Guides
+ViewModelX
+RepositoryX
+Retrofit
+Resource WrapperX
